@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "714012186390",
+    "firebase_url": "https://flash-chat-7cd3c.firebaseio.com",
+    "project_id": "flash-chat-7cd3c",
+    "storage_bucket": "flash-chat-7cd3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714012186390:android:b7211d77aa5a48104ee237",
+        "android_client_info": {
+          "package_name": "co.exeltor.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714012186390-vmec12tn0btis3aaotmsubcjm2ogisj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhcXIyMcuBQeZEVjhoUNRcE-53a0nfpZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714012186390-vmec12tn0btis3aaotmsubcjm2ogisj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
